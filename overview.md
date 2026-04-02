@@ -15,3 +15,8 @@ QuickBite is a food delivery platform designed to provide fast, reliable, and co
 - Secure online payments
 - Restaurant search and filters
 - User-friendly interface
+
+## 🛠️ Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js / Python
+- Database: MySQL / MongoDB
