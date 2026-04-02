@@ -11,3 +11,12 @@
 - Role: Collaborator
 - Work: Reviewed PR and contributed changes
 - Environment: WSL / VM
+
+## Contribution Details
+- Account A: Created project structure and overview documentation
+- Account B: Reviewed changes, suggested improvements, and merged PR
+
+## Collaboration Workflow
+- Used feature branches
+- Created Pull Requests
+- Performed code reviews before merging
